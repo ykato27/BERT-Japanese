@@ -1,4 +1,4 @@
-# python-template-repository
+# BERT-Japanese
 
 本リポジトリはPython 環境のテンプレートリポジトリです。
 
@@ -16,28 +16,7 @@
 
 ## 環境詳細
 
-- Python : 3.9.4
 
-## 事前準備
-
-- Docker インストール
-
-## 環境構築
-
-- Dockderfileがあるホスト側のフォルダへ移動（例：Desktop/python-template-repository）
-
-```
-cd Desktop/python-template-repository
-```
-
-- Dockerによる環境構築（フォルダをマウント：Desktop/python-template-repository）
-
-```
-docker-compose up --build
-```
-
-- ブラウザーを立ち上げてlocalhost:8888へアクセス
-- ローカルフォルダがマウントされている
 
 ## 動作環境
 
